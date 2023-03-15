@@ -1,0 +1,54 @@
+body {
+    font-family: "Consolas";
+    background-color: rgba(0, 0, 0, 0.897);
+    color: white
+}
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+
+form {
+    text-align: center;
+    font-size: 28px;
+}
+
+input[type=submit] {
+    margin-top: 10px;
+}
+
+input {
+    font-size: 25px;
+    font-family: "Consolas";
+}
+
+input[type=text], input[type=password], input[type=submit] {
+    background-color: black;
+    border-color: white;
+    color: white;
+}
+button {
+    margin-top: 10px;
+    font-size: 28px;
+    font-family: "Consolas";
+    background-color: black;
+    border-color: white;
+    color: white;
+}
+
+p {
+    font-size: 18px;
+}
+
+#notify {
+    margin: 10px;
+    font-size: 28px;
+    color: red;
+    text-align: center;
+}
